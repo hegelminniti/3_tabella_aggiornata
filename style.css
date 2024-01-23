@@ -37,7 +37,7 @@ tbody tr:nth-child(odd){
 
 tfoot tr{
     font-weight: 800;
-    background-color: #003300;
+    background-color: #78909c;
 }
 
 tbody td:nth-child(2){
